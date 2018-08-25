@@ -1,0 +1,10 @@
+
+*.java
+build/classes/.netbeans_automatic_build
+*.properties
+build/classes/.netbeans_update_resources
+*.xml
+*.class
+*.jar
+*.TXT
+*.mf
